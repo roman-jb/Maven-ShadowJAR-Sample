@@ -4,8 +4,8 @@
 
 Two JARs are produced:
 
-* Regular JAR: `original-ShadowJAR-Sample-RV-1.0-SNAPSHOT.jar`
-* Shadow JAR: `ShadowJAR-Sample-RV-1.0-SNAPSHOT.jar`
+* Regular JAR: `original-Maven-ShadowJAR-Sample-1.0-SNAPSHOT.jar`
+* Shadow JAR: `Maven-ShadowJAR-Sample-1.0-SNAPSHOT.jar`
 
 Compared to the Regular JAR, Shadow JAR contains all the dependencies,
 which makes it a lot larger.
